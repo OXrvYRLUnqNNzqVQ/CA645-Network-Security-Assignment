@@ -1,0 +1,36 @@
+{
+  "updated_date": [
+    "2019-03-03 21:51:09", 
+    "2019-03-03 21:51:10"
+  ], 
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+  "name": "GDPR Masked", 
+  "dnssec": [
+    "unsigned", 
+    "Unsigned"
+  ], 
+  "city": "GDPR Masked", 
+  "expiration_date": "2021-03-23 15:20:23", 
+  "zipcode": "00000", 
+  "domain_name": "BITCOINITY.ORG", 
+  "country": "US", 
+  "whois_server": "whois.publicdomainregistry.com", 
+  "state": "GDPR Masked", 
+  "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com", 
+  "referral_url": null, 
+  "address": "GDPR Masked GDPR Masked GDPR Masked", 
+  "name_servers": [
+    "NS1.FIRST-NS.DE", 
+    "ROBOTNS2.SECOND-NS.DE", 
+    "ROBOTNS3.SECOND-NS.COM", 
+    "ns1.first-ns.de", 
+    "robotns2.second-ns.de", 
+    "robotns3.second-ns.com"
+  ], 
+  "org": "GDPR Masked", 
+  "creation_date": "2011-03-23 15:20:23", 
+  "emails": [
+    "abuse-contact@publicdomainregistry.com", 
+    "gdpr-masking@gdpr-masked.com"
+  ]
+}

@@ -1,0 +1,13 @@
+https://webapps.stackexchange.com/questions/86841/how-can-i-export-all-emails-from-my-gmail-inbox-to-a-csv-file
+
+https://stackoverflow.com/questions/36538789/beautifulsoup-bs4-how-to-ignore-ending-tag-in-malformed-html
+
+https://unix.stackexchange.com/questions/40922/how-do-i-concatenate-all-the-files-in-a-given-directory-in-order-of-date-where
+
+https://stackoverflow.com/questions/4016067/whats-a-3d-doing-in-this-html
+
+https://stackoverflow.com/questions/43824650/encoding-issue-decode-quoted-printable-string-in-python
+
+http://bhrigu.me/blog/2017/01/17/huffman-coding-python-implementation/
+
+https://gist.github.com/bhrigu123/a0e50b1b468cff905346b451ab3a2c39
